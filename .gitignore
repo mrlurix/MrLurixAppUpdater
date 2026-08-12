@@ -1,0 +1,8 @@
+bin/
+obj/
+publish/
+*.user
+*.suo
+.vs/
+AppUpdater.exe
+mrlurix-app-updater/
