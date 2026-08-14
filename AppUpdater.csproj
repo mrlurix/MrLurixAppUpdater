@@ -12,9 +12,9 @@
     <AssemblyName>MrLurixAppUpdater</AssemblyName>
     <RootNamespace>AppUpdater</RootNamespace>
     <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
-    <Version>1.0.0.0</Version>
-    <FileVersion>1.0.0.0</FileVersion>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.1.0</Version>
+    <FileVersion>1.0.1.0</FileVersion>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
